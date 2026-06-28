@@ -6,6 +6,9 @@ Gritty, dark, muted Neovim colorscheme that is easy on your eyes while trying to
   <img alt="guts.nvim preview" src="https://github.com/user-attachments/assets/7b5d3181-b7cb-4337-b9a2-39064de70c68" width="900">
 </div>
 
+## YouTube video
+If you want to understand how and why I created this theme checkout my [YouTube video](https://youtu.be/-Zy14U0LmiA)
+
 ## Color references
 
 All colors are sampled from [Berserk 1997 anime](https://www.imdb.com/title/tt0318871/) and postprocessed to create a cohesive palette.
