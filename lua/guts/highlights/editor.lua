@@ -32,7 +32,7 @@ function M.load(theme)
 		StatusLine      = { fg = theme.fg_subtle },
 		StatusLineNC    = { fg = theme.fg_muted },
 		ModeMsg         = { fg = theme.fg },
-		CursorLine      = { fg = theme.fg, bg = theme.bg },
+		CursorLine      = { fg = theme.fg },
 		CursorLineNr    = { fg = theme.fg_muted },
 		TabLine         = { fg = theme.fg, bg = theme.bg },
 		Added           = { fg = theme.fg },
