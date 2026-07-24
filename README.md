@@ -98,15 +98,15 @@ vim.cmd.colorscheme("guts")
 
 ## Extras
 
-Theme files for other cli tools (I use) are available in `extras/`:
+Theme files for other CLI tools (I use) are available in `extras/`. Kitty and OpenCode also ship `-whisper` and `-scream` variants. You need to manually copy the file you want to your config.
 
-| Tool | File |
-| --- | --- |
-| Pi | `extras/pi/guts.json` |
-| Ghostty | `extras/ghostty/guts` |
-| fzf | `extras/fzf/guts.sh` |
-
-You need to manually copy these files to your config.
+| Tool | Base | Whisper | Scream |
+| --- | --- | --- | --- |
+| Pi | `extras/pi/guts.json` | — | — |
+| Ghostty | `extras/ghostty/guts` | — | — |
+| fzf | `extras/fzf/guts.sh` | — | — |
+| Kitty | `extras/kitty/guts.conf` | `extras/kitty/guts-whisper.conf` | `extras/kitty/guts-scream.conf` |
+| OpenCode | `extras/opencode/guts.json` | `extras/opencode/guts-whisper.json` | `extras/opencode/guts-scream.json` |
 
 ## Plugin and language support
 
